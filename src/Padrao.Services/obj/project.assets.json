@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\src\\Padrao.Services\\Padrao.Services.csproj",
+      "projectUniqueName": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\Vamo\\src\\Padrao.Services\\Padrao.Services.csproj",
       "projectName": "Padrao.Services",
-      "projectPath": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\src\\Padrao.Services\\Padrao.Services.csproj",
+      "projectPath": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\Vamo\\src\\Padrao.Services\\Padrao.Services.csproj",
       "packagesPath": "C:\\Users\\cezar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\src\\Padrao.Services\\obj\\",
+      "outputPath": "C:\\Users\\cezar\\OneDrive\\Área de Trabalho\\Testagem\\Vamo\\src\\Padrao.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
